@@ -22,3 +22,5 @@
 [molio 的编程](https://www.zhihu.com/column/milocode)
 
 [谢启鸿--数学分析](https://www.cnblogs.com/torsor/)
+
+[effective c++ series](https://salttiger.com/page/5/?s=effective+)
